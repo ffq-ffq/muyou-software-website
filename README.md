@@ -32,6 +32,7 @@ npm run build
 ## 部署
 
 项目可直接部署到 Vercel。生产构建命令为 `npm run build`，输出由 Next.js 托管。
+当前生产地址：https://wyxuanchuan.vercel.app
 
 ### Vercel 免费自动部署
 
